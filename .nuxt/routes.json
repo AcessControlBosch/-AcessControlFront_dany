@@ -1,0 +1,50 @@
+[
+  {
+    "name": "screen_checklistIncompleto",
+    "path": "/screen_checklistIncompleto",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_checklistIncompleto\\\\index.vue",
+    "chunkName": "pages/screen_checklistIncompleto/index"
+  },
+  {
+    "name": "screen_criarConta",
+    "path": "/screen_criarConta",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_criarConta\\\\index.vue",
+    "chunkName": "pages/screen_criarConta/index"
+  },
+  {
+    "name": "screen_cvMeioAmbiente",
+    "path": "/screen_cvMeioAmbiente",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_cvMeioAmbiente\\\\index.vue",
+    "chunkName": "pages/screen_cvMeioAmbiente/index"
+  },
+  {
+    "name": "screen_cvSeguranca",
+    "path": "/screen_cvSeguranca",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_cvSeguranca\\\\index.vue",
+    "chunkName": "pages/screen_cvSeguranca/index"
+  },
+  {
+    "name": "screen_home",
+    "path": "/screen_home",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_home\\\\index.vue",
+    "chunkName": "pages/screen_home/index"
+  },
+  {
+    "name": "screen_ordemManutencao",
+    "path": "/screen_ordemManutencao",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_ordemManutencao\\\\index.vue",
+    "chunkName": "pages/screen_ordemManutencao/index"
+  },
+  {
+    "name": "screen_tutorial",
+    "path": "/screen_tutorial",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_tutorial\\\\index.vue",
+    "chunkName": "pages/screen_tutorial/index"
+  },
+  {
+    "name": "screen_utilizacao",
+    "path": "/screen_utilizacao",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_utilizacao\\\\index.vue",
+    "chunkName": "pages/screen_utilizacao/index"
+  }
+]

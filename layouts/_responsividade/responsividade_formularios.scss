@@ -1,0 +1,45 @@
+@media only screen and(max-width: 600px){
+
+    .container {
+
+        .content{
+            display: flex;
+
+            .formulario{
+                width: 80%;
+
+                .title-page{
+                    font-size: 22px;
+                }
+    
+                .label-form{
+                    font-size: 15px;
+                }
+
+                .align-items-center{
+                    display: flex;
+                    width: 100%;
+
+                    .btn-logar{
+                        width: 12vh;
+                        height: 5vh;
+                    }
+
+                    .btn-send-approved{
+                        width: 15vh;
+                        height: 6vh;
+                    }
+
+                }
+
+                .btn-redirect{
+                    width: auto;
+                }
+
+            }
+
+        }
+    
+    }
+
+}

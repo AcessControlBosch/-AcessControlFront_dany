@@ -1,0 +1,109 @@
+@media only screen and(max-width: 600px){
+
+    .container {
+
+        .content{
+            display: flex;
+
+            .row-superior{
+
+                .title-page{
+                    font-size: 22px;
+                }
+
+            }
+
+            .buttons{
+                display: flex;
+
+                .button-content{
+                    width: 95%;
+
+                    .button-function{
+                        
+                    }
+
+                }
+
+            }
+
+            .row-inferior{
+
+                .subtitle{
+                    font-size: 18px;
+                }
+
+                .video{
+                    width: 80%;
+                    height: 25vh;
+                }
+
+                .align-items-center{
+
+                    .btn{
+                        width: 12vh;
+                        padding: 13px;
+                    }
+
+                }
+
+                .card-info{
+                    width: 85%;
+
+                    .card-title{
+                        font-size: 16px;
+                    }
+
+                    .card-subject{
+                        font-size: 14px;
+                    }
+
+                }
+
+                .formulario{
+
+                    .line-question{
+                
+                        .checkbox{
+                            width: 3vh;
+                            height: 3vh;
+                            margin-right: 20px
+                        }
+
+                        .p-question{
+                            font-size: 16px;
+                            font-family: "Bosch_Sans_Regular";
+                        }
+
+                    }
+
+                }
+
+                .align-items-center{
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin: 30px;
+
+                    .btn{
+                        border: none;
+                        margin: 10px;
+                        width: 20vh;
+                        height: 5vh;
+                        padding: 10px;
+                        border-radius: 10px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+
+                    }
+                }
+
+            }
+
+        }
+    
+    }
+
+}

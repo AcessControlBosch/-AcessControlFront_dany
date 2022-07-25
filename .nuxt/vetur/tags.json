@@ -1,0 +1,17 @@
+{
+  "CardTitleSeguranca": {
+    "description": "Auto imported from components/CardTitleSeguranca.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "ModalLock": {
+    "description": "Auto imported from components/ModalLock.vue"
+  },
+  "ModalReleased": {
+    "description": "Auto imported from components/ModalReleased.vue"
+  },
+  "TitlePage": {
+    "description": "Auto imported from components/TitlePage.vue"
+  }
+}
