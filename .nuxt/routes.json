@@ -1,50 +1,72 @@
 [
   {
+    "name": "NotFound",
+    "path": "/NotFound",
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\NotFound.vue",
+    "chunkName": "pages/NotFound",
+    "_name": "_5c8a77e4"
+  },
+  {
     "name": "screen_checklistIncompleto",
     "path": "/screen_checklistIncompleto",
-    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_checklistIncompleto\\\\index.vue",
-    "chunkName": "pages/screen_checklistIncompleto/index"
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_checklistIncompleto\\\\index.vue",
+    "chunkName": "pages/screen_checklistIncompleto/index",
+    "_name": "_01d371dc"
   },
   {
     "name": "screen_criarConta",
     "path": "/screen_criarConta",
-    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_criarConta\\\\index.vue",
-    "chunkName": "pages/screen_criarConta/index"
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_criarConta\\\\index.vue",
+    "chunkName": "pages/screen_criarConta/index",
+    "_name": "_1dfa7870"
   },
   {
     "name": "screen_cvMeioAmbiente",
     "path": "/screen_cvMeioAmbiente",
-    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_cvMeioAmbiente\\\\index.vue",
-    "chunkName": "pages/screen_cvMeioAmbiente/index"
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_cvMeioAmbiente\\\\index.vue",
+    "chunkName": "pages/screen_cvMeioAmbiente/index",
+    "_name": "_619b7e16"
   },
   {
     "name": "screen_cvSeguranca",
     "path": "/screen_cvSeguranca",
-    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_cvSeguranca\\\\index.vue",
-    "chunkName": "pages/screen_cvSeguranca/index"
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_cvSeguranca\\\\index.vue",
+    "chunkName": "pages/screen_cvSeguranca/index",
+    "_name": "_a2cce714"
   },
   {
     "name": "screen_home",
     "path": "/screen_home",
-    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_home\\\\index.vue",
-    "chunkName": "pages/screen_home/index"
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_home\\\\index.vue",
+    "chunkName": "pages/screen_home/index",
+    "_name": "_86b92256"
   },
   {
     "name": "screen_ordemManutencao",
     "path": "/screen_ordemManutencao",
-    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_ordemManutencao\\\\index.vue",
-    "chunkName": "pages/screen_ordemManutencao/index"
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_ordemManutencao\\\\index.vue",
+    "chunkName": "pages/screen_ordemManutencao/index",
+    "_name": "_01f602a8"
+  },
+  {
+    "name": "screen_qrCode",
+    "path": "/screen_qrCode",
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_qrCode\\\\index.vue",
+    "chunkName": "pages/screen_qrCode/index",
+    "_name": "_7586c226"
   },
   {
     "name": "screen_tutorial",
     "path": "/screen_tutorial",
-    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_tutorial\\\\index.vue",
-    "chunkName": "pages/screen_tutorial/index"
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_tutorial\\\\index.vue",
+    "chunkName": "pages/screen_tutorial/index",
+    "_name": "_12e94414"
   },
   {
     "name": "screen_utilizacao",
     "path": "/screen_utilizacao",
-    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\Acess-Control-Front-master\\\\acesscontrolfront\\\\pages\\\\screen_utilizacao\\\\index.vue",
-    "chunkName": "pages/screen_utilizacao/index"
+    "component": "C:\\\\Users\\\\CID2CA\\\\Desktop\\\\tccHoje\\\\pages\\\\screen_utilizacao\\\\index.vue",
+    "chunkName": "pages/screen_utilizacao/index",
+    "_name": "_07cfda9e"
   }
 ]
